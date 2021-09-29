@@ -9,13 +9,13 @@
   <url>http://maven.apache.org</url>
   <dependencies>
   
-   <!-- https://mvnrepository.com/artifact/com.h2database/h2 -->
+   <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 	<dependency>
-	    <groupId>com.h2database</groupId>
-	    <artifactId>h2</artifactId>
-	    <version>1.4.200</version>
-	    <scope>test</scope>
+	    <groupId>mysql</groupId>
+	    <artifactId>mysql-connector-java</artifactId>
+	    <version>5.1.30</version>
 	</dependency>
+
 	  
   	
   	<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->

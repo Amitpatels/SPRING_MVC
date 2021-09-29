@@ -11,8 +11,6 @@
 
 	<h1>${h}</h1>
 	<p>${desc}</p>
-	<hr>
-	<h1 style="color:green">${msg}</h1>
 	
 	<hr>
 	<h2>User Name : ${user.name}</h2>
